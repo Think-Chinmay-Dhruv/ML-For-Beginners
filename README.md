@@ -21,7 +21,6 @@ Travel with us around the world as we apply these classic techniques to data fro
 **🎨 Thanks as well to our illustrators** Tomomi Imura, Dasani Madipalli, and Jen Looper
 
  **🙏 Special thanks 🙏 to our Microsoft Student Ambassador authors, reviewers and content contributors**, notably Rishit Dagli, Muhammad Sakib Khan Inan, Rohan Raj, Alexandru Petrescu, Abhishek Jaiswal, Nawrin Tabassum, Ioan Samuila, and Snigdha Agarwal
-https://github.com/UNR-Teaching/cs135-lab1-Think-Chinmay-Dhruv.git
 ---
 # Getting Started
 
